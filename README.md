@@ -2,6 +2,7 @@
 [GitHub Octernships](https://github.com/education/Octernships) program connects students with industry partners in paid professional experiences and mentorship on open source and software development projects. This repository contains the  Partner Handbook 📕 which serves as a guide for organizations who are **accepted** into the program. 
 
 - Interested organizations can sign up [here](https://aka.ms/OcternshipPartnerApplication) and learn more from the [program website](https://education.github.com/students/octernships)
+- Student Applications (TBA) 
 
 | Task  | Expected Timeline (suggested) |
 | ------------- | ------------- |
