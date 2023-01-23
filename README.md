@@ -9,5 +9,5 @@
 | Setting up your Octernship project | 2 weeks |
 | Students applying to Octernship project | 2-3 weeks |
 | Partner reviewing student submissions | 2-3 weeks |
-| Student Onboarding to Partner organization | 1 Week |a
+| Student Onboarding to Partner organization | 1 week |
 | Octernship period | 1-6 months |
