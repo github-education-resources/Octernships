@@ -14,9 +14,9 @@ GitHub Octernships program connects students with industry partners in paid prof
 
 ## 🔗 Quick Links 
 -   [Application](1.%20Application.md)
-    - [Octernship project creation with GitHub Classroom](1.%20Application.md#11-octernship-project-creation-with-github-classroom)
+    - [Octernship project creation with GitHub Classroom](1.%20Application.md#octernship-project-creation-with-github-classroom)
         - [Partner Informational and Assignment README Template](/1.%20Application.md#partner-informational-and-assignment-readme-template-)
-        - [Partner Informational and Assignment README sample (GitHub)](/1.%20Application.md#partner-informational-and-assignment-readme-template-)
+        - [Partner Informational and Assignment README sample (GitHub)](/project_template_sample.md)
     -  [Submitting the Octernship Project to GitHub Education](/1.%20Application.md#submitting-the-octernship-project-to-github-)
     - [Application FAQs](/1.%20Application.md#application-faqs-)
 - [Communication in the program](/2.%20Communication.md#20-communication-in-the-program)
