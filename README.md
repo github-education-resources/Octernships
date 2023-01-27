@@ -22,7 +22,7 @@
     - [Application FAQs](/1.%20Application.md#application-faqs-)
 - [Communication in the program](/2.%20Communication.md#20-communication-in-the-program)
     - [Creating and using GitHub Discussions](/2.%20Communication.md#github-discussions-)
--   [GitHub Octernship Stream](3.%20Stream.md#30-github-octernship-stream)
+-   [GitHub Octernships Stream](3.%20Stream.md#30-github-octernship-stream)
     - [Terminology](3.%20Stream.md#terminology-)
     - [Onboarding](/3.%20Stream.md#onboarding-)
     - [Stream FAQ and Tips](3.%20Stream.md#stream-faq-and-tips-)
