@@ -75,11 +75,12 @@ Use this package.json for testing
 
 ### Task submission
 
-Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their task. This includes
+Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. 
 
 1. Creating a new branch
 2. Making changes on the new branch to complete the task
-3. Opening a Pull Request for review
+3. Using the auto generated **Feedback Pull Request** for review and submission
+4. Using GitHub Discussions to ask any relevant questions regarding the project
 
 ### Resources
 <!--- Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.  --->
