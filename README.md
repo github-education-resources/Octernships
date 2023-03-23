@@ -16,8 +16,8 @@
 ## 🔗 Quick Links 
 -   [Application](1.%20Application.md)
     - [Octernship project creation with GitHub Classroom](1.%20Application.md#octernship-project-creation-with-github-classroom-)
-        - [Partner Informational and Assignment README Template](/1.%20Application.md#partner-informational-and-assignment-readme-template-)
-        - [Partner Informational and Assignment README sample (GitHub)](/project_template_sample.md)
+        - [[TEMPLATE] Partner Informational and Assignment](/1.%20Application.md#partner-informational-and-assignment-readme-template-)
+        - [[SAMPLE] Partner Information and Assignment](https://github.com/ashwinexe/Octernship_Project)
     -  [Submitting the Octernship Project to GitHub Education](/1.%20Application.md#submitting-the-octernship-project-to-github-)
     - [Application FAQs](/1.%20Application.md#application-faqs-)
 - [Communication in the program](/2.%20Communication.md#20-communication-in-the-program)
